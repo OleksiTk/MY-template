@@ -48,8 +48,8 @@ h6,
 }
 
 :root {
-  --container-width: rem(1440);
-  --container-padding-x: rem(10);
+  --container-width: 90rem;
+  --container-padding-x: 0.625rem;
   --transition-duration: 0.2s;
 }
 
